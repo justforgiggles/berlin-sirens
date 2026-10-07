@@ -2,7 +2,7 @@
   "version": 1,
   "files": [
     {
-      "name": "audio.wav",
+      "name": "recording-001_no-siren.wav",
       "size": 3069432,
       "lastModified": 1791362973802,
       "duration_s": 31.972438,
@@ -13,10 +13,11 @@
           "siren_detected": false,
           "direction": null
         }
-      ]
+      ],
+      "original_name": "audio.wav"
     },
     {
-      "name": "four.wav",
+      "name": "recording-002_siren-approaching-receding.wav",
       "size": 757932,
       "lastModified": 1791358919126,
       "duration_s": 23.682938,
@@ -39,10 +40,11 @@
           "siren_detected": true,
           "direction": "receding"
         }
-      ]
+      ],
+      "original_name": "four.wav"
     },
     {
-      "name": "IMG_2002.wav",
+      "name": "recording-003_siren-approaching-receding.wav",
       "size": 992632,
       "lastModified": 1791358918670,
       "duration_s": 31.017313,
@@ -65,10 +67,11 @@
           "siren_detected": false,
           "direction": null
         }
-      ]
+      ],
+      "original_name": "IMG_2002.wav"
     },
     {
-      "name": "IMG_2003.wav",
+      "name": "recording-004_siren-approaching.wav",
       "size": 387790,
       "lastModified": 1791358918727,
       "duration_s": 12.116,
@@ -85,10 +88,11 @@
           "siren_detected": false,
           "direction": null
         }
-      ]
+      ],
+      "original_name": "IMG_2003.wav"
     },
     {
-      "name": "IMG_2004.wav",
+      "name": "recording-005_no-siren.wav",
       "size": 570062,
       "lastModified": 1791358918784,
       "duration_s": 17.812,
@@ -99,10 +103,11 @@
           "siren_detected": false,
           "direction": null
         }
-      ]
+      ],
+      "original_name": "IMG_2004.wav"
     },
     {
-      "name": "IMG_2017.wav",
+      "name": "recording-006_siren-approaching.wav",
       "size": 153636,
       "lastModified": 1791358918829,
       "duration_s": 4.798688,
@@ -113,10 +118,11 @@
           "siren_detected": true,
           "direction": "approaching"
         }
-      ]
+      ],
+      "original_name": "IMG_2017.wav"
     },
     {
-      "name": "IMG_2054.wav",
+      "name": "recording-007_no-siren.wav",
       "size": 1024036,
       "lastModified": 1791358918894,
       "duration_s": 31.998688,
@@ -127,10 +133,11 @@
           "siren_detected": false,
           "direction": null
         }
-      ]
+      ],
+      "original_name": "IMG_2054.wav"
     },
     {
-      "name": "IMG_2056.wav",
+      "name": "recording-008_no-siren.wav",
       "size": 304504,
       "lastModified": 1791358918945,
       "duration_s": 9.513313,
@@ -141,10 +148,11 @@
           "siren_detected": false,
           "direction": null
         }
-      ]
+      ],
+      "original_name": "IMG_2056.wav"
     },
     {
-      "name": "IMG_2057.wav",
+      "name": "recording-009_siren-receding.wav",
       "size": 449230,
       "lastModified": 1791358919000,
       "duration_s": 14.036,
@@ -161,10 +169,11 @@
           "siren_detected": true,
           "direction": "receding"
         }
-      ]
+      ],
+      "original_name": "IMG_2057.wav"
     },
     {
-      "name": "IMG_2058.wav",
+      "name": "recording-010_siren-unknown.wav",
       "size": 1120292,
       "lastModified": 1791358919069,
       "duration_s": 35.006688,
@@ -181,10 +190,11 @@
           "siren_detected": true,
           "direction": "unknown"
         }
-      ]
+      ],
+      "original_name": "IMG_2058.wav"
     },
     {
-      "name": "one.wav",
+      "name": "recording-011_siren-approaching-receding.wav",
       "size": 1056632,
       "lastModified": 1791358919191,
       "duration_s": 33.017313,
@@ -201,10 +211,11 @@
           "siren_detected": true,
           "direction": "receding"
         }
-      ]
+      ],
+      "original_name": "one.wav"
     },
     {
-      "name": "two.wav",
+      "name": "recording-012_siren-approaching-receding.wav",
       "size": 1305550,
       "lastModified": 1791358919267,
       "duration_s": 40.796,
@@ -221,7 +232,8 @@
           "siren_detected": true,
           "direction": "receding"
         }
-      ]
+      ],
+      "original_name": "two.wav"
     }
   ]
 }
