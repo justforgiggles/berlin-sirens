@@ -1,0 +1,227 @@
+{
+  "version": 1,
+  "files": [
+    {
+      "name": "audio.wav",
+      "size": 3069432,
+      "lastModified": 1791362973802,
+      "duration_s": 31.972438,
+      "intervals": [
+        {
+          "start_s": 0,
+          "end_s": 31.972,
+          "siren_detected": false,
+          "direction": null
+        }
+      ]
+    },
+    {
+      "name": "four.wav",
+      "size": 757932,
+      "lastModified": 1791358919126,
+      "duration_s": 23.682938,
+      "intervals": [
+        {
+          "start_s": 0,
+          "end_s": 15.64,
+          "siren_detected": true,
+          "direction": "approaching"
+        },
+        {
+          "start_s": 16.02,
+          "end_s": 20.56,
+          "siren_detected": true,
+          "direction": "receding"
+        },
+        {
+          "start_s": 20.814128,
+          "end_s": 23.377745,
+          "siren_detected": true,
+          "direction": "receding"
+        }
+      ]
+    },
+    {
+      "name": "IMG_2002.wav",
+      "size": 992632,
+      "lastModified": 1791358918670,
+      "duration_s": 31.017313,
+      "intervals": [
+        {
+          "start_s": 0,
+          "end_s": 12.91,
+          "siren_detected": true,
+          "direction": "approaching"
+        },
+        {
+          "start_s": 13.29,
+          "end_s": 17.39,
+          "siren_detected": true,
+          "direction": "receding"
+        },
+        {
+          "start_s": 18.13,
+          "end_s": 29.538394,
+          "siren_detected": false,
+          "direction": null
+        }
+      ]
+    },
+    {
+      "name": "IMG_2003.wav",
+      "size": 387790,
+      "lastModified": 1791358918727,
+      "duration_s": 12.116,
+      "intervals": [
+        {
+          "start_s": 0,
+          "end_s": 6.41,
+          "siren_detected": true,
+          "direction": "approaching"
+        },
+        {
+          "start_s": 6.93,
+          "end_s": 12.116,
+          "siren_detected": false,
+          "direction": null
+        }
+      ]
+    },
+    {
+      "name": "IMG_2004.wav",
+      "size": 570062,
+      "lastModified": 1791358918784,
+      "duration_s": 17.812,
+      "intervals": [
+        {
+          "start_s": 0,
+          "end_s": 17.812,
+          "siren_detected": false,
+          "direction": null
+        }
+      ]
+    },
+    {
+      "name": "IMG_2017.wav",
+      "size": 153636,
+      "lastModified": 1791358918829,
+      "duration_s": 4.798688,
+      "intervals": [
+        {
+          "start_s": 0,
+          "end_s": 3.1,
+          "siren_detected": true,
+          "direction": "approaching"
+        }
+      ]
+    },
+    {
+      "name": "IMG_2054.wav",
+      "size": 1024036,
+      "lastModified": 1791358918894,
+      "duration_s": 31.998688,
+      "intervals": [
+        {
+          "start_s": 0,
+          "end_s": 31.998688,
+          "siren_detected": false,
+          "direction": null
+        }
+      ]
+    },
+    {
+      "name": "IMG_2056.wav",
+      "size": 304504,
+      "lastModified": 1791358918945,
+      "duration_s": 9.513313,
+      "intervals": [
+        {
+          "start_s": 0,
+          "end_s": 9.513313,
+          "siren_detected": false,
+          "direction": null
+        }
+      ]
+    },
+    {
+      "name": "IMG_2057.wav",
+      "size": 449230,
+      "lastModified": 1791358919000,
+      "duration_s": 14.036,
+      "intervals": [
+        {
+          "start_s": 0,
+          "end_s": 6.39,
+          "siren_detected": false,
+          "direction": null
+        },
+        {
+          "start_s": 7.9,
+          "end_s": 12.47,
+          "siren_detected": true,
+          "direction": "receding"
+        }
+      ]
+    },
+    {
+      "name": "IMG_2058.wav",
+      "size": 1120292,
+      "lastModified": 1791358919069,
+      "duration_s": 35.006688,
+      "intervals": [
+        {
+          "start_s": 0.721787,
+          "end_s": 14.435747,
+          "siren_detected": false,
+          "direction": null
+        },
+        {
+          "start_s": 17.58544,
+          "end_s": 33.963594,
+          "siren_detected": true,
+          "direction": "unknown"
+        }
+      ]
+    },
+    {
+      "name": "one.wav",
+      "size": 1056632,
+      "lastModified": 1791358919191,
+      "duration_s": 33.017313,
+      "intervals": [
+        {
+          "start_s": 0,
+          "end_s": 15.700242,
+          "siren_detected": true,
+          "direction": "approaching"
+        },
+        {
+          "start_s": 16.57,
+          "end_s": 32.299858,
+          "siren_detected": true,
+          "direction": "receding"
+        }
+      ]
+    },
+    {
+      "name": "two.wav",
+      "size": 1305550,
+      "lastModified": 1791358919267,
+      "duration_s": 40.796,
+      "intervals": [
+        {
+          "start_s": 0,
+          "end_s": 28.441541,
+          "siren_detected": true,
+          "direction": "approaching"
+        },
+        {
+          "start_s": 30.06,
+          "end_s": 39.381055,
+          "siren_detected": true,
+          "direction": "receding"
+        }
+      ]
+    }
+  ]
+}
